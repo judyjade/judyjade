@@ -1,6 +1,6 @@
 - 👋 Oii, tudo bem?
-  Me chamo Stefany
-- 👀 atualmente estou atuando na área de programação como Dev. Freelancer
+  Me chamo Stefany.
+- 👀 Atualmente estou atuando na área de programação como Dev. Freelancer
 - 🌱 Estou aprendendo sobre lojas virtuais e Landing Pages Interativas
 - 💞️ Tenho uma grande paixão por programação
 - 📫 Pode entrar em contato comigo através desse e-mail: contato.sxfreimann.com
