@@ -8,14 +8,12 @@
 
 SOBRE MIM
 
-Desenvolvedora Front End, especializada em HTML, CSS JavaScript( Next.js ). Trabalhando profissionalmente com Front End desde outubro de 2024. Experiência com projetos de curto e longo prazo. Ótima gestão de tempo, organização de prazos para entrega de projetos.
+Desenvolvedora Front End, especializada em HTML, CSS JavaScript( React.js ). Trabalhando profissionalmente com Front End desde outubro de 2024. Experiência com projetos de curto e longo prazo. Ótima gestão de tempo, organização de prazos para entrega de projetos.
 
 Hard Skills:
 HTML5 | CSS3;
 JavaScript;
-Next.js;
 React.js;
-Inicialização.
 
 Ferramentas;
 Código do Visual Studio;
